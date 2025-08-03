@@ -1,0 +1,1 @@
+I have attached the zip files of the exercise solutions in the respective exercise folders. The zip files of each exercise consist the package paths and the java codes used for the exercise questions.
